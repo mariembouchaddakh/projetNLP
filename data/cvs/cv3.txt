@@ -1,0 +1,6 @@
+Nom : Sarra Khelifi
+Formation : Ingénieur Informatique, INSAT, 2018
+Expérience : 6 ans développement cloud-native
+Compétences : Python, React, Node.js, SQL, Docker, Kubernetes, AWS
+Langues : Français, Anglais C1
+Projets : Architecture microservices, lead technique équipe 4 devs, CI/CD.

@@ -1,0 +1,7 @@
+Poste : Développeur Full-Stack Senior
+Expérience requise : 4 ans minimum
+Formation : Bac+5 en Informatique ou équivalent
+Compétences : Python, React, Node.js, SQL, Docker, API REST
+Langues : Français courant, Anglais technique
+Missions : Développement d'applications web, conception d'APIs, 
+revue de code, travail en équipe Agile.

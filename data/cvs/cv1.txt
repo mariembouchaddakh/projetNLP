@@ -1,0 +1,7 @@
+Nom : Amira Benali
+Formation : Master Informatique, ENSI, 2019
+Expérience : 5 ans en développement Full-Stack
+Compétences : Python, React, Node.js, SQL, Docker, Git, AWS
+Langues : Français, Anglais courant
+Projets : Développement d'APIs REST pour startups fintech, 
+revues de code hebdomadaires, méthodologie Agile/Scrum.

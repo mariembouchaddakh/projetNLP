@@ -1,0 +1,6 @@
+Nom : Karim Mansouri
+Formation : Licence Informatique, 2022
+Expérience : 2 ans backend Node.js
+Compétences : JavaScript, Node.js, SQL, Git
+Langues : Français
+Projets : Stage 6 mois, petits projets académiques.

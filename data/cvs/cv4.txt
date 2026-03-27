@@ -1,0 +1,6 @@
+Nom : Omar Trabelsi
+Formation : BTS Développement, 2023
+Expérience : 6 mois stage
+Compétences : HTML, CSS, JavaScript basique
+Langues : Français
+Projets : Site vitrine en HTML/CSS pour une association.

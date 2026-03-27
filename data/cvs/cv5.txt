@@ -1,0 +1,6 @@
+Nom : Nour Hamdi
+Formation : Master Génie Logiciel, 2020
+Expérience : 4 ans React et TypeScript
+Compétences : React, TypeScript, SQL, REST APIs, Node.js
+Langues : Français, Anglais B2
+Projets : Applications fintech, e-commerce, portfolio GitHub actif.
